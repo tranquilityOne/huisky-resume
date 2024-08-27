@@ -18,7 +18,7 @@
 * sqlserver 事务复制实现异地实时备份，读写分离
 * 通过中间件实现 graylog日志管理, grafana管理docker services 和 container
   
-  **技术要点**: mt4 交易，devops
+    技术要点: mt4 交易，devops
   
 2. **深圳市微科通讯设备有限公司**
 * 微科车载定位系统
@@ -26,11 +26,11 @@
 * 通讯服务:基于.net 开源框架supersocket 开发的IOCP 高并发通讯服务,支持分布式部署。
 * 流量卡平台: 用户给设备充值的管理平台,主要包括支付,分红,统计等功能 。
   
-  **技术要点**：supersocket，redis,rabbitmq高并发缓存处理,sqlserver 分库分表。
+    技术要点：supersocket，redis,rabbitmq高并发缓存处理,sqlserver 分库分表。
   
 3. **深圳市格瑞普电池有限公司**
 * MES&ERP 工业制造系统
 * 基于扫描枪，串口协议，锂电池制造各工段数据采集及录入
 * 复杂报表，图表处理
   
-  **技术要点**：devexpress控件处理, 数据采集，sql查询优化, sqlserver 分库分表。
+    技术要点：devexpress控件处理, 数据采集，sql查询优化, sqlserver 分库分表。
